@@ -1,7 +1,5 @@
-module Redditapi
-
-end
-
-class ActiveRecord: Base
-	include Redditapi
+class redditapi
+	def self.hi
+		puts "Hello World"
+	end
 end
