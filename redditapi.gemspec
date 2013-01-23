@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'RedditAPI'
+  s.name        = 'redditapi'
   s.version     = '0.0.0'
   s.date        = '2013-01-22'
   s.summary     = "redditapi"
