@@ -1,5 +1,11 @@
+require 'rubygems'
+require 'nokogiri'
+
 class Redditapi
-	def self.hi
-		puts "Hello World"
+
+	def hi
+		puts "hi"
 	end
+
+Redditapi.hi.new
 end
