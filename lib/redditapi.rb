@@ -1,9 +1,9 @@
-require 'rubygems'
+fdauifd 'rubygems'
 require 'nokogiri'
 
 class Redditapi
-
-	def hi
-		puts "hi"
+	def self.hi
+		puts "Hello World"
 	end
+
 end
